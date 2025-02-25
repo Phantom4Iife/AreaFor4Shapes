@@ -1,0 +1,14 @@
+C:\Users\Jeremiah\repos\AreaFor4Shapes\bin\Debug\net9.0\AreaFor4Shapes.exe
+C:\Users\Jeremiah\repos\AreaFor4Shapes\bin\Debug\net9.0\AreaFor4Shapes.deps.json
+C:\Users\Jeremiah\repos\AreaFor4Shapes\bin\Debug\net9.0\AreaFor4Shapes.runtimeconfig.json
+C:\Users\Jeremiah\repos\AreaFor4Shapes\bin\Debug\net9.0\AreaFor4Shapes.dll
+C:\Users\Jeremiah\repos\AreaFor4Shapes\bin\Debug\net9.0\AreaFor4Shapes.pdb
+C:\Users\Jeremiah\repos\AreaFor4Shapes\obj\Debug\net9.0\AreaFor4Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeremiah\repos\AreaFor4Shapes\obj\Debug\net9.0\AreaFor4Shapes.AssemblyInfoInputs.cache
+C:\Users\Jeremiah\repos\AreaFor4Shapes\obj\Debug\net9.0\AreaFor4Shapes.AssemblyInfo.cs
+C:\Users\Jeremiah\repos\AreaFor4Shapes\obj\Debug\net9.0\AreaFor4Shapes.csproj.CoreCompileInputs.cache
+C:\Users\Jeremiah\repos\AreaFor4Shapes\obj\Debug\net9.0\AreaFor4Shapes.dll
+C:\Users\Jeremiah\repos\AreaFor4Shapes\obj\Debug\net9.0\refint\AreaFor4Shapes.dll
+C:\Users\Jeremiah\repos\AreaFor4Shapes\obj\Debug\net9.0\AreaFor4Shapes.pdb
+C:\Users\Jeremiah\repos\AreaFor4Shapes\obj\Debug\net9.0\AreaFor4Shapes.genruntimeconfig.cache
+C:\Users\Jeremiah\repos\AreaFor4Shapes\obj\Debug\net9.0\ref\AreaFor4Shapes.dll
