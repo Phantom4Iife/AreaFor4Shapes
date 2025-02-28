@@ -12,3 +12,4 @@ C:\Users\Jeremiah\repos\AreaFor4Shapes\obj\Debug\net9.0\refint\AreaFor4Shapes.dl
 C:\Users\Jeremiah\repos\AreaFor4Shapes\obj\Debug\net9.0\AreaFor4Shapes.pdb
 C:\Users\Jeremiah\repos\AreaFor4Shapes\obj\Debug\net9.0\AreaFor4Shapes.genruntimeconfig.cache
 C:\Users\Jeremiah\repos\AreaFor4Shapes\obj\Debug\net9.0\ref\AreaFor4Shapes.dll
+C:\Users\Jeremiah\repos\AreaFor4Shapes\obj\Debug\net9.0\AreaFor4Shapes.sourcelink.json

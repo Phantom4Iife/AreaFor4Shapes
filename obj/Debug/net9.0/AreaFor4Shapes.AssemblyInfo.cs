@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AreaFor4Shapes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c2ed610860d6aebd34264628ff1f1aad0181c30")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c9e840baff4f216090010a2be1bd1547f582c65")]
 [assembly: System.Reflection.AssemblyProductAttribute("AreaFor4Shapes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AreaFor4Shapes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
